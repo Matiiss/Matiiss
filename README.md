@@ -6,7 +6,7 @@ Contributor to:
 
 [pygame-ce](https://github.com/pygame-community/pygame-ce)
 
-[pygame-examples](https://github.com/pygame-examples/pygame_examples)
+[pygame-examples](https://github.com/pygame-examples/pygame-examples)
 
 
 ⚡ Fun fact: I love C
