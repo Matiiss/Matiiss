@@ -4,9 +4,9 @@
 
 Contributor to:
 
-[pygame - Community Edition](https://github.com/pygame-community/pygame-ce)
+[pygame-ce](https://github.com/pygame-community/pygame-ce)
 
-[Pygame Examples](https://github.com/pygame-examples/pygame_examples)
+[pygame-examples](https://github.com/pygame-examples/pygame_examples)
 
 
 ⚡ Fun fact: I love C
