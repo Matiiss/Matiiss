@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/bfc99a51-4e6d-4bd7-bcc5-56f477eaa865.svg)](https://wakatime.com/@bfc99a51-4e6d-4bd7-bcc5-56f477eaa865)
+
+Contributor to:
+
+[pygame - Community Edition](https://github.com/pygame-community/pygame-ce)
+
+[Pygame Examples](https://github.com/pygame-examples/pygame_examples)
+
+
+⚡ Fun fact: I love C
+
 <!--
 **Matiiss/Matiiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
